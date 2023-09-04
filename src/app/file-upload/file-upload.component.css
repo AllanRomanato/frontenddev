@@ -1,0 +1,6 @@
+.center-container {
+  display: flex;
+  justify-content: center;
+  min-height: calc(100vh - 10px); /* Subtract 10px for the margin from the top */
+  margin-top: 10px; /* 10px margin from the top */
+}
